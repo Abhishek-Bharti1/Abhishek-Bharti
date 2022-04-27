@@ -9,11 +9,15 @@ I joined Masai School and started my journey in the Tech-World.
 
 Apart, from coding, I love Travelling and Interacting with new people.
 
+* 🌍  I'm based in Kanpur, UttarPradesh
+* ✉️  You can contact me at [abhishekbharti91550@gmail.com](mailto:abhishekbharti91550@gmail.com)
+* 🧠  I'm learning MERN Stack MongoDb || ExpressJS || ReactJS || NodeJS
+* 🤝  I'm open to collaborating on open source projects
 
 <br>
-
 <p>
 <div align ="center">
+
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
@@ -24,14 +28,19 @@ Apart, from coding, I love Travelling and Interacting with new people.
 </div>
 </p>
 <hr>
-**Connect with me:**
+
+
+<b>Contact Me :</b>
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-bharti-/" target="blank"><img align="center" src="https://www.bing.com/th?id=AMMS_S_24b2654d-e52c-a557-e938-1072dfec2428&w=148&h=148&c=7&o=6&oif=webp&pid=SANGAM" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://github.com/Abhishek-Bharti1" target="blank"><img align="center" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://medium.com/@abhishekbharti91550" target="blank"><img align="center" src="https://th.bing.com/th/id/R.43138f8c443dd4df3ec9e1bf9b647d21?rik=NKBORmUj52K2yQ&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2020%2f10%2fMedium-logo-2020.png&ehk=dJgY5T%2bcVRjClQ2SWPGm%2fC%2fe2NgyG2Dfrzq5vrKrIL0%3d&risl=&pid=ImgRaw&r=0" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-<br/>
 <hr>
+<b>My GitHub Stats :</b>
+<br/>
+<br/>
 <p align="left">
   <a href="">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bharti1&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -39,3 +48,4 @@ Apart, from coding, I love Travelling and Interacting with new people.
   </a>
 </p>
 <br>
+<a href="http://www.github.com/Abhishek-Bharti1"><img src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Bharti1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
