@@ -23,7 +23,7 @@ Apart, from coding, I love Travelling and Interacting with new people.
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 </p>
-
+<hr>
 **Connect with me:**
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-bharti-/" target="blank"><img align="center" src="https://www.bing.com/th?id=AMMS_S_24b2654d-e52c-a557-e938-1072dfec2428&w=148&h=148&c=7&o=6&oif=webp&pid=SANGAM" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
