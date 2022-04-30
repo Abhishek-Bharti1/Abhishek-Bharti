@@ -8,11 +8,12 @@ I am learning MERN Stack, Data Structure, Algorithms, and soft skills at Masai S
 I joined Masai School and started my journey in the Tech-World.
 
 Apart, from coding, I love Travelling and Interacting with new people.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Bharti1&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Bharti1" /> </p>
 * 🌍  I'm based in Kanpur, UttarPradesh
 * ✉️  You can contact me at [abhishekbharti91550@gmail.com](mailto:abhishekbharti91550@gmail.com)
-* 🧠  I'm learning MERN Stack MongoDb || ExpressJS || ReactJS || NodeJS
+* 🧠  I'm learning MERN Stack 
 * 🤝  I'm open to collaborating on open source projects
+* 💬 Ask me about **javascript, react, nodejs, expressjs**
 
 <br>
 <p>
@@ -47,6 +48,5 @@ Apart, from coding, I love Travelling and Interacting with new people.
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Abhishek-Bharti1&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Bharti1&show_icons=true&locale=en&layout=compact" alt="Abhishek-Bharti1" /></p>
 <br>
 <a href="http://www.github.com/Abhishek-Bharti1"><img src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Bharti1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
