@@ -8,12 +8,14 @@ I am learning MERN Stack, Data Structure, Algorithms, and soft skills at Masai S
 I joined Masai School and started my journey in the Tech-World.
 
 Apart, from coding, I love Travelling and Interacting with new people.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Bharti1&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Bharti1" /> </p>
+
 * 🌍  I'm based in Kanpur, UttarPradesh
 * ✉️  You can contact me at [abhishekbharti91550@gmail.com](mailto:abhishekbharti91550@gmail.com)
 * 🧠  I'm learning MERN Stack 
 * 🤝  I'm open to collaborating on open source projects
-* 💬 Ask me about **javascript, react, nodejs, expressjs**
+* 💬 Ask me about **JavaScript, React, Nodejs, Expressjs**
 
 <br>
 <p>
