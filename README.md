@@ -4,8 +4,9 @@
 
 Javascript is my native language 😌
 
-I am learning MERN Stack, Data Structure, Algorithms, and soft skills at Masai School. I have a passion for Web3. To grow my skills I focus on solidity Development and Functional programming.
-I joined Masai School and started my journey in the Tech-World.
+Observant and detail oriented Full Stack Web Developer in MERN Stack. Selfmotivated and curious with a keen interest in building user centric product. Looking
+forward to honing my skills in a challenging work environment.
+
 
 Apart, from coding, I love Travelling and Interacting with new people.
 
